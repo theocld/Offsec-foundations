@@ -1,10 +1,5 @@
 # 🛡️ offsec-foundations
 
-> A curated collection of offensive security primitives implemented from scratch in C.
-> Educational project exploring the foundational mechanisms behind modern malware and red team tooling.
-
----
-
 ## About
 
 This repository is a hands-on exploration of the low-level techniques used in offensive security: network reconnaissance, system hooks, process manipulation, and code injection. Every tool is written from the ground up in C, without relying on high-level frameworks, to understand exactly what happens at the OS level.
